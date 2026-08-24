@@ -27,7 +27,7 @@ export const novenaDays = [
     id: 1,
     title: "DAY 1 — COME, HOLY SPIRIT",
     icon: "🕊️",
-    theme: "Dove descending in divine light",
+    
     scripture: '"Come, Holy Spirit, fill the hearts of your faithful and kindle in them the fire of your love." — Acts 2:4',
     reflection: "The Holy Spirit is God's gift to us. He comes to dwell within us and leads us into a deeper relationship with God. Today, open your heart and invite Him sincerely. Do not simply ask for His gifts; ask for Him. Say: \"Holy Spirit, I welcome You into every part of my life.\"",
     prayer: [
@@ -48,7 +48,7 @@ export const novenaDays = [
     id: 2,
     title: "DAY 2 — HOLY SPIRIT, PURIFY ME",
     icon: "✨",
-    theme: "Dove surrounded by cleansing light",
+    
     scripture: '"Create in me a clean heart, O God." — Psalm 51:10',
     reflection: "Before we can fully experience God's presence, we must allow Him to purify our hearts. Today, ask the Holy Spirit to reveal anything within you that does not please God—sin, pride, unforgiveness, anger, jealousy, dishonesty, impurity, resentment, or anything else. Do not be afraid of what He reveals. His correction comes from love.",
     prayer: [
@@ -72,7 +72,7 @@ export const novenaDays = [
     id: 3,
     title: "DAY 3 — HOLY SPIRIT, GIVE ME WISDOM",
     icon: "📖",
-    theme: "Dove above an open Bible",
+    
     scripture: '"If any of you lacks wisdom, let him ask God." — James 1:5',
     reflection: "There are many decisions we make in life, and we do not always know which path is right. The Holy Spirit gives wisdom and helps us distinguish between what is pleasing to God and what is not.",
     prayer: [
@@ -92,7 +92,7 @@ export const novenaDays = [
     id: 4,
     title: "DAY 4 — HOLY SPIRIT, GIVE ME STRENGTH",
     icon: "🔥",
-    theme: "Pentecost flames surrounding the disciples",
+    
     scripture: '"You shall receive power when the Holy Spirit has come upon you." — Acts 1:8',
     reflection: "Sometimes we desire to do what is right but become weak when temptation, suffering, disappointment, or fear comes. The Holy Spirit gives us supernatural strength to remain faithful.",
     prayer: [
@@ -115,7 +115,7 @@ export const novenaDays = [
     id: 5,
     title: "DAY 5 — HOLY SPIRIT, TEACH ME TO LOVE",
     icon: "❤️",
-    theme: "Dove with warm radiant light",
+    
     scripture: '"The fruit of the Spirit is love, joy, peace, patience, kindness..." — Galatians 5:22',
     reflection: "The greatest evidence of the Holy Spirit working within us is not simply extraordinary experiences—it is a transformed life. The Holy Spirit teaches us to love God and love others.",
     prayer: [
@@ -138,7 +138,7 @@ export const novenaDays = [
     id: 6,
     title: "DAY 6 — HOLY SPIRIT, TEACH ME TO PRAY",
     icon: "🙏",
-    theme: "Person praying beneath the Holy Spirit",
+    
     scripture: '"The Spirit helps us in our weakness; for we do not know how to pray as we ought." — Romans 8:26',
     reflection: "There are times when we do not know what to say to God. Sometimes our hearts are full of pain, confusion, or longing. The Holy Spirit helps us pray. Today, spend some time in silence. Do not rush. Simply remain before God and say: \"Holy Spirit, pray within me.\"",
     prayer: [
@@ -159,7 +159,7 @@ export const novenaDays = [
     id: 7,
     title: "DAY 7 — HOLY SPIRIT, GIVE ME THE FRUITS OF HOLINESS",
     icon: "🍇",
-    theme: "Dove/light surrounded by symbolic fruits",
+    
     scripture: '"Walk by the Spirit, and do not gratify the desires of the flesh." — Galatians 5:16',
     reflection: "The Holy Spirit desires to transform our character. Ask Him especially for the fruits of love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control.",
     prayer: [
@@ -184,7 +184,7 @@ export const novenaDays = [
     id: 8,
     title: "DAY 8 — HOLY SPIRIT, HELP ME SURRENDER",
     icon: "🙌",
-    theme: "Person kneeling before radiant cross/dove",
+    
     scripture: '"Not my will, but yours, be done." — Luke 22:42',
     reflection: "Sometimes the greatest obstacle between us and God's plan is our desire to control everything. Today, surrender your plans, worries, relationships, ambitions, fears, and future to God. Say: \"Holy Spirit, I surrender. Lead me wherever You want me to go.\"",
     prayer: [
@@ -208,7 +208,7 @@ export const novenaDays = [
     id: 9,
     title: "DAY 9 — HOLY SPIRIT, REMAIN WITH ME",
     icon: "⛪",
-    theme: "Dove descending over a peaceful church",
+    
     scripture: '"And I will ask the Father, and he will give you another Counselor to be with you forever." — John 14:16',
     reflection: "The novena is ending, but your walk with the Holy Spirit must continue daily. He wants to be your constant guide, your comforter, and your source of strength for the rest of your life.",
     prayer: [

@@ -26,7 +26,7 @@ function Hero() {
         </div>
 
         {/* Main Title Header */}
-        <h1 className="font-serif text-4xl font-semibold uppercase tracking-wide text-[#3b245c] sm:text-5xl md:text-6xl leading-tight">
+        <h1 className="font-serif text-4xl font-semibold uppercase tracking-wide text-[#3b245c] sm:text-4xl md:text-5xl leading-tight">
           Come, Holy Spirit
         </h1>
 
