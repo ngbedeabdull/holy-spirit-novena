@@ -14,13 +14,9 @@ function Hero() {
       id="home" 
       className="relative flex flex-col items-center justify-center px-4 py-20 text-center sm:px-6 md:py-32 overflow-hidden rounded-b-3xl min-h-[75vh]"
     >
-      {/* Background Image Layer */}
-      <div 
-        className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
-        style={{ 
-          backgroundImage: `linear-gradient(to bottom, rgba(250, 247, 240, 0.2), rgba(33, 21, 47, 0.45)), url('/background.png')` 
-        }}
-      />
+      
+      
+      
 
       {/* Foreground Content Card Area */}
       <div className="relative z-10 max-w-xl mx-auto flex flex-col items-center">
